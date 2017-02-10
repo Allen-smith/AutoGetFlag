@@ -1,5 +1,5 @@
 #coding:utf-8
-#author:r00tuser
+#author:Allen-smith
 #version:v1.0
 '''
    自动化getflag，仅接受get请求形式
@@ -27,7 +27,7 @@ class gettheflag():
         self.getflagmain()
 
     def codeinfor(self):
-        print u'---自动化获取flag,code by r00tuser---'
+        print u'---自动化获取flag,code by Allen-smith---'
         print u'-------------------------------------'
         print u'-------------------------------------'
         print u'-------------------------------------'
